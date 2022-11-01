@@ -3,7 +3,7 @@ body {
 }
 p {
     text-align: center;
-
-   em strong {
-    color: rgb(255, 0, 0);
+}
+em strong {
+    color: rgb(175, 175, 175)
    }
