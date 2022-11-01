@@ -2,11 +2,8 @@ body {
     background: #CCCCCC
 }
 p {
-    text-align: center
-    p {
-        text-align: center;
-   }
-   
+    text-align: center;
+
    em strong {
     color: rgb(255, 0, 0);
    }
