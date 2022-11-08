@@ -1,15 +1,15 @@
 body {
     background: #CCCCCC
 }
+h1  {
+    text-align: center
+}
 p {
-h1 { text-align: center;
+    text-align: center
+}
+#missao {
+    font-size: 20px
 }
 em strong {
-    color: rgb(40, 58, 138)
-   }
-   #missao {
-    font-size: 20px
-   }
-   em strong {
-    color: rgb(28, 28, 167)
-   }
+    color: rgb(20, 20, 167);
+}
